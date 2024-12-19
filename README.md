@@ -1,8 +1,5 @@
 
-# plant_treaty_code
-
-<!-- badges: start -->
-<!-- badges: end -->
+# plant_treaty_codebase
 
 This repository stores code used in the Plant Treaty project with CGIAR. 
 
